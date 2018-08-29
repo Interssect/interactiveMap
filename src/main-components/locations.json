@@ -1,0 +1,32 @@
+[
+  {
+    "name": "The Treehouse",
+    "definition": "Caffe",
+    "latitude": 45.814602,
+    "longitude": 15.975613
+  },
+  {
+    "name": "Maksimir zoo",
+    "definition": "Zoo",
+    "latitude": 45.821035,
+    "longitude": 16.019535
+  },
+  {
+    "name": "Botanički vrt",
+    "definition": "Garden",
+    "latitude": 45.804931,
+    "longitude": 15.971038
+  },
+  {
+    "name": "Zrinjevac",
+    "definition": "Park",
+    "latitude": 45.810424,
+    "longitude": 15.978282
+  },
+  {
+    "name": "Glavni kolodvor",
+    "definition": "Train",
+    "latitude": 45.804671,
+    "longitude": 15.978812
+  }
+]
